@@ -1,4 +1,4 @@
 # GuessCelebrity
-Parsing web-site without specialized framework
+Parsing web-site (imdb), without specialized framework
 #
 ![image](./1.jpg)
